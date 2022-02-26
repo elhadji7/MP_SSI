@@ -1,0 +1,22 @@
+{
+  "name": "mp_ssi",
+  "version": "1.0.0",
+  "description": ">cloner un depot permet d'avoir le projet en local. Apres ce processsus, la branche par defaut en local est la branche master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elhadji7/MP_SSI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elhadji7/MP_SSI/issues"
+  },
+  "homepage": "https://github.com/elhadji7/MP_SSI#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
