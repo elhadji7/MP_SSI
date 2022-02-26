@@ -20,6 +20,7 @@ $  git pull origin <nomdelabranche>
   #creer une nouvelle branche tout simplement
   $git branch <nombranche>
   #basculer sur la branche
-  $git checkout <nombranche>
+ >$git checkout <nombranche>
+  ```
 
 
