@@ -14,13 +14,14 @@ $  git pull origin <nomdelabranche>
 ```
 ### creer un nouvelle branche
 > pour creer une nouvelle branche, la commande c'est:
-> ```bash
-> #creer une nouvelle branche et basculer sur la branche:
-> $git checkout -b <nomdelabranche>
-  #creer une nouvelle branche tout simplement
-  $git branch <nombranche>
-  #basculer sur la branche
- >$git checkout <nombranche>
+
+ ```bash
+ #creer une nouvelle branche et basculer sur la branche:
+ $ git checkout -b <nomdelabranche>
+ #creer une nouvelle branche tout simplement
+ $ git branch <nombranche>
+ #basculer sur la branche
+ $ git checkout <nombranche>
   ```
 
 
