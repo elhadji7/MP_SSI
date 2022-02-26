@@ -12,6 +12,7 @@ $ git clone <addressedudepot>
 la commande utilisée est: 
 ```bash
 $  git pull origin <nomdelabranche>
+
 ```
 
 
